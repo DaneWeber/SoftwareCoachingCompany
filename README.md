@@ -30,6 +30,17 @@ _We help humanity benefit from software through the humane and sustainable shari
   - We want to share those better ways so that people will flourish and be fulfilled.
   - We want to share those better ways for the good of all.
 
+## Membership Criteria
+
+Being a member of this Software Coaching Company is not for everyone.
+
+- Your contributions only matter if they involve others.
+  - Others, especially your teammates, should influence your actions and should learn along with you.
+  - Working effectively with others takes skill and effort--individual brilliance and heroics are anti-patterns that lead to weak and stagnant teams.
+- Those doing the work make the decisions and bear the responsibility.
+  - Anyone removed from the work are merely supporting those doing the work.
+  - Delegated decision-making is at the consent of those doing the work.
+
 ## Outline of Topics to Cover
 
 Topics I intend to address:
