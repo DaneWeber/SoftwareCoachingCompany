@@ -30,7 +30,7 @@ _We help humanity benefit from software through the humane and sustainable shari
   - We want to share those better ways so that people will flourish and be fulfilled.
   - We want to share those better ways for the good of all.
 
-## Outline of Topics
+## Outline of Topics to Cover
 
 Topics I intend to address:
 
