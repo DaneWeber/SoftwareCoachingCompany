@@ -12,6 +12,8 @@ This document is based on a hypothetical coaching company for software developme
 
 ## Company Mission
 
+_We help humanity benefit from software through the humane and sustainable sharing of wisdom, craft, and code._
+
 - We understand software to be universal to humanity.
   - Software is a confluence of language and technology.
     - Language captures ideas in symbolic form and enables communication and coordination between people across space and time.
