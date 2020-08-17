@@ -41,6 +41,8 @@ Being a member of this Software Coaching Company is not for everyone.
   - Anyone removed from the work are merely supporting those doing the work.
   - Delegated decision-making is at the consent of those doing the work.
 
+See [notes on membership criteria](Notes/MembershipCriteria.md).
+
 ## Outline of Topics to Cover
 
 Topics I intend to address:
