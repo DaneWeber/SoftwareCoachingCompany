@@ -12,7 +12,11 @@ This document is based on a hypothetical coaching company for software developme
 
 ## Company Mission
 
+"Code for humans"
+
 _We help humanity benefit from software through the humane and sustainable sharing of wisdom, craft, and code._
+
+Code is precise language.
 
 - We understand software to be universal to humanity.
   - Software is a confluence of language and technology.
