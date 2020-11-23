@@ -57,4 +57,10 @@ Topics I intend to address:
 - Aligned incentives
 - Transparency
 - Horizontal growth
-- Translating resources into outcomes
+- Translating resources into outcomes (includes salary transparency)
+- Leave is time spent for yourself, your family, and your social circles
+  - Mandatory vacation from work (disconnect for the sake of the company's resilience)
+  - Take care of your health
+  - Take care of your people
+  - Enjoy life
+  - Contribute to society
