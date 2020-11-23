@@ -27,12 +27,12 @@ Code is precise language.
   - Civilization now depends on software.
 - We want the benefits of software to be universal.
   - This includes the growth and maintenance of FOSS which is a public good.
-  - This includes the effective application of software for the benefit human groups and organizations.
+  - This includes the effective application of software for the benefit of human groups and organizations.
   - This includes the ability of people to inspect, understand, and influence the software that affects them.
-- There are better ways of writing and maintaining software.
-  - We want to share those better ways to avoid wasting human energy and the resources of the world.
-  - We want to share those better ways so that people will flourish and be fulfilled.
-  - We want to share those better ways for the good of all.
+- There are better ways of writing and maintaining software. We want to share those better ways:
+  - To avoid wasting human energy and the resources of the world.
+  - So that people will flourish and be fulfilled.
+  - For the good of all.
 
 ## Membership Criteria
 
