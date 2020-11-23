@@ -51,8 +51,6 @@ See [notes on membership criteria](Notes/MembershipCriteria.md).
 
 Topics I intend to address:
 
-- Distinct purpose
-- Exclusion criteria
 - Decision-making and conflict resolution
 - Aligned incentives
 - Transparency
